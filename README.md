@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://danielsanchezportfolio.netlify.app/](https://danielsanchezportfolio.netlify.app/)
 
-- 💬 Ask me about **React, JavaScript, HTML, CSS**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Sass, JQuery, Ajax, React, npm, git**
 
 - 📫 How to reach me **programmingAcc97@gmail.com**
 
